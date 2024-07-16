@@ -1,6 +1,5 @@
 - 👋 Hi, I’m harshavarthan 
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on angela white
 - 📫 How to reach me harahavarthan@gmail.com
 
 <!---
